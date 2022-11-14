@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["pes-core", "frontend-desktop"]
